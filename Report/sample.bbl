@@ -1,0 +1,10 @@
+\newcommand{\noopsort}[1]{} \newcommand{\printfirst}[2]{#1}
+  \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
+\begin{thebibliography}{1}
+
+\bibitem{Garcia.ea:Auto89}
+C.~E. Garc’a, D.~M. Prett, and M.~Morari.
+\newblock Model predictive control: Theory and practice -- a survey.
+\newblock {\em Automatica}, 25(3):335 -- 348, 1989.
+
+\end{thebibliography}
